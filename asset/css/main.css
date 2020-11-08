@@ -1,0 +1,95 @@
+*{
+
+    margin: 0;
+
+
+}
+html{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+
+}
+
+body {
+
+    position: relative;
+    background-color: snow;
+}
+
+.blog {
+
+    position: relative;
+    margin: auto;
+    width: 60%;
+    height: 25rem;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.image {
+
+
+    display: block;
+
+
+
+}
+
+.formulaire {
+
+    position: relative;
+
+}
+
+
+
+
+
+header{
+    background-color: whitesmoke;
+}
+form{
+
+    padding-top: 30px;
+    background-color:#ececec;
+}
+.form-groupe{
+height: 100%;
+
+
+}
+
+
+
+h5{
+    text-align: center;
+}
+
+#error{
+    background-color: red;
+    color: white;
+}
+#secondfrm{
+    position: relative;
+    margin: auto;
+    width: 40%;
+    height: 20rem;
+
+}
+#frmcnx{
+  margin-left: 35%;
+}
+.cadenas{
+    text-align: center;
+    color: darkgray ;
+}
+
+.titregame{
+    background-color: #0f6674;
+    color: white;
+    text-align: center;
+}
+.jeux{
+    text-align: center;
+}
+
